@@ -10,10 +10,15 @@ Project Structure
 The repository is organized into six main folders:
 
 Figures/      → All figures used in the final paper (PNG, SVG, or PDF format)
+
 Maps/         → Geographical visualizations and spatial data files
+
 Markdowns/    → Annotated research notes and intermediate text outputs in Markdown format
+
 Networks/     → Graph files and network analysis outputs (Cytoscape)
+
 Scripts/      → Code used for data analysis (R)
+
 Tables/       → Cleaned datasets, summary statistics, and career sequence tables (CSV, Excel)
 
 **Description of Contents**
