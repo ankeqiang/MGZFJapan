@@ -1,4 +1,4 @@
-*Japan-Trained Chinese Officials in China’s Wartime Central Administration (1944)*
+**Japan-Trained Chinese Officials in China’s Wartime Central Administration (1944)**
 Overview
 
 This repository presents the data, figures, and scripts used in the research paper:
