@@ -16,8 +16,8 @@ Networks/     → Graph files and network analysis outputs (Cytoscape)
 Scripts/      → Code used for data analysis (R)
 Tables/       → Cleaned datasets, summary statistics, and career sequence tables (CSV, Excel)
 
-Description of Contents
-📊 Figures
+**Description of Contents**
+📊 *Figures*
 
 Includes publication-ready visualizations:
 
@@ -27,7 +27,7 @@ Includes publication-ready visualizations:
 
     Career sequence visualizations and PCA cluster plots
 
-🗺️ Maps
+🗺️ *Maps*
 
 Contains static and interactive maps of:
 
@@ -35,10 +35,10 @@ Contains static and interactive maps of:
 
     Institutional and administrative mobility across China
 
-📄 Markdowns
+📄 *Markdowns*
 
 Houses interim working notes, data summaries, and topic modeling outputs that trace thematic evolution in the historiography and press mentions.
-🕸️ Networks
+🕸️ *Networks*
 
 Includes:
 
@@ -48,7 +48,7 @@ Includes:
 
     Temporal networks (Cytoscape) across 1920–1949 based on Shenbao co-occurrences
 
-💻 Scripts
+💻 *Scripts*
 
 All scripts used for data preprocessing, analysis, and visualization:
 
@@ -58,7 +58,7 @@ All scripts used for data preprocessing, analysis, and visualization:
 
     Network construction routines from name/entity co-occurrence data
 
-📂 Tables
+📂 *Tables*
 
 Final datasets used in the study, including:
 
@@ -70,7 +70,7 @@ Final datasets used in the study, including:
 
     Metadata of Shenbao mentions (1920–1949)
 
-Data Sources
+**Data Sources**
 
     Primary Dataset: Minguo zhengfu ge yuanhui keyuan yishang zhiyuanlu (1944), a personnel directory covering officials from the rank of keyuan to ministerial positions in the wartime Nationalist government.
 
@@ -78,7 +78,7 @@ Data Sources
 
     Historiographic Corpus: Metadata and abstracts of 446 Chinese-language studies on Chinese students in Japan, analyzed through topic modeling.
 
-Methodology
+**Methodology**
 
     Prosopographic Analysis: Systematic profiling of educational and administrative careers.
 
@@ -88,7 +88,7 @@ Methodology
 
     Topic Modeling: Applied to Chinese historiography to identify dominant research themes.
 
-Citation
+**Citation**
 
 If you use the data or analysis provided in this repository, please cite:
 
